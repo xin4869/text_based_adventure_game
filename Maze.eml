@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../out/test/Maze"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="scala-swing_3-3.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/O1Library/lib/scala-swing_3-3.0.0.jar!/"/>
+	</lib>
+	<lib name="scala-swing_3-3.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/Adventure/scala-swing_3-3.0.0.jar!/"/>
+	</lib>
+	<levels>
+		<level name="scala-sdk-3.3.3" value="project"/>
+	</levels>
+</component>
